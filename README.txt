@@ -1,0 +1,1 @@
+A gallery that displays the large image of the thumbnail that is clicked on.
