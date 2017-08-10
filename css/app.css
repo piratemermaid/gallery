@@ -4,5 +4,10 @@ body {
 }
 
 .thumb {
-  width: 200px;
+  border: 6px solid white;
 }
+
+.thumb:hover {
+  border: none;
+}
+
